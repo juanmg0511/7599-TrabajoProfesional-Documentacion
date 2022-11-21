@@ -24,6 +24,6 @@ El mismo consiste en la creación de un juego en 2D con mecánicas _roguelike_ c
 
 ## Links a repositorios del Proyecto
 - [Escape from NODNOL (Juego Roguelike)](https://github.com/DiegoForgan/7599-TrabajoProfesional-JuegoRoguelike)
-- [FIUBA CloudSync - Autorization Server (AuthServer)](https://github.com/juanmg0511/7599-TrabajoProfesional-CloudSync-AuthServer)
+- [FIUBA CloudSync - Authorization Server (AuthServer)](https://github.com/juanmg0511/7599-TrabajoProfesional-CloudSync-AuthServer)
 - [FIUBA CloudSync - Application Server (AppServer)](https://github.com/juanmg0511/7599-TrabajoProfesional-CloudSync-AppServer)
 - [FIUBA CloudSync - Administration Website (WebAdmin)](https://github.com/juanmg0511/7599-TrabajoProfesional-CloudSync-AuthServer)
