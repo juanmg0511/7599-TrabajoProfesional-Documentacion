@@ -20,7 +20,10 @@ El mismo consiste en la creación de un juego en 2D con mecánicas _roguelike_ c
 - Diego Martins Forgan
 
 ## Project management
-- [Teamspace on Notion](https://www.notion.so/cea066352ad74042b1a85bb06ed246f1?v=df5f64da06df47daa2f3477a10fa6628)
+- [Teamspace en Notion](https://www.notion.so/cea066352ad74042b1a85bb06ed246f1?v=df5f64da06df47daa2f3477a10fa6628)
+
+## Documentación del Proyecto
+- [Wikis en GitHub](https://github.com/juanmg0511/7599-TrabajoProfesional-Documentacion/wiki)
 
 ## Links a repositorios del Proyecto
 - [Escape from NODNOL (Juego Roguelike)](https://github.com/DiegoForgan/7599-TrabajoProfesional-JuegoRoguelike)
